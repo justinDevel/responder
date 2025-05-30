@@ -1,0 +1,13 @@
+# Node & Python ignores
+node_modules/
+__pycache__/
+*.pyc
+
+# VSCode & OS files
+.vscode/
+.DS_Store
+
+# Build files
+.next/
+dist/
+build/
