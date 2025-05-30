@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Responder Logo" width="200"/>
+  <img src="./logo.JPG" alt="Responder Logo" width="200"/>
 </p>
 
 # 🛡️ Responder – Multi-Agent AI for Public Safety
