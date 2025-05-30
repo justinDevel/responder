@@ -1,7 +1,3 @@
-Here is a **professional, hackathon-ready `README.md` file** for your project, assuming it's named **`Responder`**, structured with a `backend` and `frontend` directory, designed for submission to the **Indy Civic Tech Hackathon 2025**.
-
----
-
 ````markdown
 # 🛡️ Responder – Multi-Agent AI for Public Safety
 Empowering Indiana Communities with Multi-Agent AI to Report Hazards, Dispatch Alerts, and Coordinate Crisis Response
