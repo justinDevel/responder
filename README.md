@@ -173,5 +173,3 @@ Built with 💙 for the people of Indiana.
 
 > “AI isn’t replacing humans — it’s helping protect them.”
 
-
-```
