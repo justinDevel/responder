@@ -1,4 +1,4 @@
-````markdown
+
 # 🛡️ Responder – Multi-Agent AI for Public Safety
 Empowering Indiana Communities with Multi-Agent AI to Report Hazards, Dispatch Alerts, and Coordinate Crisis Response
 
@@ -29,7 +29,7 @@ responder/
 ├── frontend/        # Next.js React frontend with chat interface
 ````
 
----
+
 
 ## 🚀 Features
 
