@@ -59,10 +59,18 @@ Handles agent processing, prompt injection, AI querying, and response synthesis.
 
 ### How to Run:
 
+
 ```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
+
+> Make sure `.env` is configured with your PERPLEXITY_API_KEY replace `your_perplexity_api_key_here` string with your PERPLEXITY_API_KEY :
+> To obtain your PERPLEXITY_API_KEY , Follow the offical docs here [How To Get My Perplexity API](https://docs.perplexity.ai/guides/getting-started)
+
+```env
+PERPLEXITY_API_KEY=your_perplexity_api_key_here
 ```
 
 ### Endpoints:
@@ -139,7 +147,7 @@ Agents will respond with coordinated, role-based feedback.
 ## 📹 Demo Video
 
 Watch our 3-minute demo:
-📺 [YouTube Demo Video](https://youtube.com/your-demo-link-here)
+📺 [YouTube Demo Video](https://youtu.be/uzptQEhwR2c)
 
 ---
 
