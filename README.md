@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" alt="Responder Logo" width="200"/>
+</p>
 
 # 🛡️ Responder – Multi-Agent AI for Public Safety
 Empowering Indiana Communities with Multi-Agent AI to Report Hazards, Dispatch Alerts, and Coordinate Crisis Response
